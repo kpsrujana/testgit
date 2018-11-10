@@ -1,0 +1,10 @@
+G:\proj\VirtualClass\VirtualClass\bin\VirtualClass.dll
+G:\proj\VirtualClass\VirtualClass\bin\VirtualClass.pdb
+G:\proj\VirtualClass\VirtualClass\obj\Debug\VirtualClass.csprojResolveAssemblyReference.cache
+G:\proj\VirtualClass\VirtualClass\obj\Debug\VirtualClass.dll
+G:\proj\VirtualClass\VirtualClass\obj\Debug\VirtualClass.pdb
+F:\proj\VirtualClass\VirtualClass\bin\VirtualClass.dll
+F:\proj\VirtualClass\VirtualClass\bin\VirtualClass.pdb
+F:\proj\VirtualClass\VirtualClass\obj\Debug\VirtualClass.csprojResolveAssemblyReference.cache
+F:\proj\VirtualClass\VirtualClass\obj\Debug\VirtualClass.dll
+F:\proj\VirtualClass\VirtualClass\obj\Debug\VirtualClass.pdb
